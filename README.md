@@ -12,4 +12,5 @@
 ### Plataforma objetivo: PC
 
 ## Cómo instalar y ejecutar el proyecto:
-* Aún no sé como
+* Aún no sé como, igual no va a estar disponible puesto a que el proyecto aún es muy temprano y no hay nada que ejecutar que valga la pena
+  
